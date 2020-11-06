@@ -1,0 +1,6 @@
+name: lyrscraper_env
+dependencies:
+ - python=3.8
+ - pip:
+   - pytest 
+   - scrapy
